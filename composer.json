@@ -20,11 +20,5 @@
     },
     "autoload": {
         "files": ["LaraWorker.php"]
-    },
-    "repositories":[
-        {
-            "type":"git",
-            "url":"http://github.com/iron-io/laraworker"
-        }
-    ]
+    }
 }
